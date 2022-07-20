@@ -9,9 +9,14 @@ Local air quality affects how people live and breathe. Like the weather, it can 
 and understand as weather forecasts. A key tool in this effort is the Air Quality Index. Here we find the top 10 populated states in the USA. We will pick the top 3 states to observe and develop exploratory analysis. This states are  CALIFORNIA,  NEW YORK, TEXAS.
 
 # Data Sets:
+
 AQI Data set with Sensor, Pollutent, State and Counties
+
 # Tools used:
+
 Pandas for Analysis
+
 Tableau for  visualization
+
 # Code
 Codes are available in Scripts folders.
